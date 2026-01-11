@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-a4vii-y&e7@wjlh7n3=8h8oyko8*xj!r#5kxy%mz$e5^=b*l!6
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["3.110.101.123", "127.0.0.1", "13.127.18.210", "13.233.151.242", "13.232.189.105", "65.0.100.118", "15.206.124.199", "test-load-balancer-1787482831.ap-south-1.elb.amazonaws.com"]
+ALLOWED_HOSTS = ["35.154.211.12", "127.0.0.1"]
 
 
 # Application definition
